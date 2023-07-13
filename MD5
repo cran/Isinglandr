@@ -1,6 +1,6 @@
-56222f9ff7444c9249b425d6e5e54b0e *DESCRIPTION
+a60f6d3168e98629df58fb6f1f0789f2 *DESCRIPTION
 56d63fc87baf78a02351da0a64bce89e *NAMESPACE
-d33cd93ece440e9e145fb70c4ff78c0e *NEWS.md
+85cde8d8a404596985a7daff471aa42a *NEWS.md
 f882a037fa1e11da46836785cbb85d79 *R/Ising_grid.R
 736a806f4676ae8f015b7535eab7291b *R/Isinglandr-package.R
 7fdf2fa8a7a789a0a603fbe092835405 *R/barrier.R
@@ -9,7 +9,7 @@ dfa9dff69aeddda2b3fdd958f3aeed69 *R/chain-simulation.R
 79a1510085ecbbeef5725c7d5c4ec763 *R/imported_generic_function.R
 941c332b6efedca2db32009a55ec90f4 *R/landscape.R
 7883ae919d04f0bf60703100bfa73f38 *R/resilience.R
-f5ef267b462919a1aa4d209ee6579ccf *R/shiny.R
+539a7ac9faa32d199bc2154cb288a7dd *R/shiny.R
 d47c71631db54034e494faf4e26f7842 *R/simulation.R
 d8b64d0c44d2f606a47703543f856ba0 *R/utils-barrier.R
 b56ff2b193ecba52f9ec7f3b10cca008 *R/utils-pipe.R
